@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Levisa Vanya</h1>
-<h3 align = "center">A schizo coding</h3>
+<h2 align = "center">A schizo coding</h2>
 
 
 # 💫 About Me:
