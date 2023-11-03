@@ -1,8 +1,9 @@
 <h1 align = "center">Hello, I'm Levisa Vanya</h1>
 <h3 align = "center">A schizo coding</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/ab/a9/81/aba9815ff52c8d0dd55a7c9e32a0b520.gif">
+
 
 # 💫 About Me:
+<img align="right" alt="Coding" width="350" height = "250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdG16NGFyMmV3N2draWd2dDlkNm8yNW1mc2FnMG04eDlnMjE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif"/>
 
 - 🔭 I’m currently practicing on **coding**
 
@@ -11,9 +12,9 @@
 - 💬 Ask me about **life**
 
 - ⚡ Fun fact **I'm really like technology**
+<br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LevisaVanya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/levis-vanya) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thongle321456) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@levis2) 
 
 # 💻 Tech Stack:
