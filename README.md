@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="350" height = "250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdG16NGFyMmV3N2draWd2dDlkNm8yNW1mc2FnMG04eDlnMjE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif"/>
+<img align="right" alt="Coding" width="350" height = "200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdG16NGFyMmV3N2draWd2dDlkNm8yNW1mc2FnMG04eDlnMjE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif"/>
 
 - 🔭 I’m currently practicing on **coding**
 
