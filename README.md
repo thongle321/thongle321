@@ -8,3 +8,4 @@ Open-source is a big part of how I work and grow as a developer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thongle321&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thongle321&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+_P.S. using Arch Linux btw_
