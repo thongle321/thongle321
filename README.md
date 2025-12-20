@@ -6,6 +6,6 @@ Open-source is a big part of how I work and grow as a developer.
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=thongle321&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thongle321&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thongle321&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact&&hide=dart,tsql,scss)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thongle321&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact&&hide=dart,tsql)
 
 _P.S. using Arch Linux btw_
