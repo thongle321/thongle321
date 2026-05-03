@@ -5,4 +5,5 @@ Open-source is a big part of how I work and grow as a developer.
 
 # GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com?user=thongle321&theme=kanagawa-paper)<br/>
+
 _P.S. using Arch Linux btw_
